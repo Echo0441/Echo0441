@@ -1,6 +1,5 @@
-- 👋 I'm a data scientist working @local government.
+- 👋 I'm a Azure certified data scientist working @local government.
 - 👀 I’m interested in everything data science related, using AI+ML methods to improve public service particularly.
-- 🌱 I’m currently learning Google Machine Learning Engineer Course on Corsera.
 - 📫 echo0441@gmail.com
 
 <!---
