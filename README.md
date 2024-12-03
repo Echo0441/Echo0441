@@ -1,4 +1,4 @@
-- 👋 I'm a Azure certified data scientist working @local government.
+- 👋 I'm a Microsoft Azure certified data scientist working @local government.
 - 👀 I’m interested in everything data science related, using AI+ML methods to improve public service particularly.
 - 📫 echo0441@gmail.com
 
